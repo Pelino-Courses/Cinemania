@@ -9,4 +9,4 @@
 - Django Crispy Forms
 - Asigref
 - Sqlite3
-- Sqlparse
+- Sqlparse 
